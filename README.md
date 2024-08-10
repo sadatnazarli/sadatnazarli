@@ -18,7 +18,6 @@ My ultimate goal is to become a proficient software engineer who can combine tec
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sadatnazarli&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sadatnazarli&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
