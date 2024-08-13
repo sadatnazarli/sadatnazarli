@@ -15,6 +15,10 @@ My ultimate goal is to become a proficient software engineer who can combine tec
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadatnazarli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadatnazarli&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
