@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a young tech enthusiast with a strong passion for software development. <br>
-Currently, I'm focused on enhancing my skills in Python, while also diving deep into C, Bash scripting, and Go (Golang). <br>
+I'm a young tech enthusiast with a strong passion for software development.  
+Currently, I'm focused on enhancing my skills in Python, while also diving deep into C, Bash scripting, and Go (Golang).  
 My ultimate goal is to become a proficient software engineer who can combine technical expertise and creativity to solve complex, real-world problems.
 
 ## 🌐 Socials:
@@ -17,10 +17,9 @@ My ultimate goal is to become a proficient software engineer who can combine tec
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 # 📊 GitHub Stats:
-| ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=crewcik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crewcik&theme=tokyonight&hide_border=true) | ![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=crewcik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadatnazarli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadatnazarli&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 |------------------------|----------------|---------------------|
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sadatnazarli&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
