@@ -17,8 +17,8 @@ My ultimate goal is to become a proficient software engineer who can combine tec
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadatnazarli&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+| ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=crewcik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crewcik&theme=tokyonight&hide_border=true) | ![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=crewcik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+|------------------------|----------------|---------------------|
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sadatnazarli&icon=6&color=0)](https://visitcount.itsvg.in)
