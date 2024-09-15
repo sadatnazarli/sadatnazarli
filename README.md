@@ -1,10 +1,11 @@
 # 💫 About Me:
 I'm a young tech enthusiast with a strong passion for software development.  
-Currently, I'm focused on enhancing my skills in Python, while also diving deep into C, Bash scripting, and Go (Golang).  
+Currently, I'm focused on enhancing my skills in Python, while also diving deep into C, Bash scripting.  
 My ultimate goal is to become a proficient software engineer who can combine technical expertise and creativity to solve complex, real-world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadatnazarli/) 
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/sadatnazarli)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
