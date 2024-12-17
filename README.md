@@ -18,7 +18,7 @@ My ultimate goal is to become a proficient software engineer who can combine tec
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadatnazarli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) |  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 |------------------------|----------------|---------------------|
 
 ---
