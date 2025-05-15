@@ -1,16 +1,31 @@
 # 👋 Hi, I'm Sadat Nazarli
 ### Software Developer | Open-Source Enthusiast | Problem Solver
 
-<div align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595329694615/ixt6_2P8R.gif?auto=format,compress&gif-q=60&format=webm" alt="Coding GIF" width="500" />
-  <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" alt="Small Coding GIF" width="300" height="300" />
-</div>
+# 👋 Hi, I'm Sadat Nazarli
+### Software Developer | Open-Source Enthusiast | Problem Solver
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&layout=compact&theme=radical" alt="Top Languages" /></td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/zaftzaft/terminal-anime/master/demo.gif" alt="Terminal Anime GIF" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" alt="Code Eye GIF" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&layout=compact&theme=radical" alt="Top Languages" width="100%" />
+      </td>
     </tr>
   </table>
 </div>
