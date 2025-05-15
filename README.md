@@ -2,8 +2,12 @@
 ### Software Developer | Open-Source Enthusiast | Problem Solver
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" alt="Coding GIF" width="500" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&layout=compact&theme=radical" alt="Top Languages" width="40%" />
 </div>
 
 ## 💫 About Me
@@ -33,7 +37,7 @@ Passionate software developer with expertise in Python, C, and web technologies.
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sadatnazarli&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sadatnazarli&theme=dark" alt="GitHub Streak" width="70%" />
 </div>
 
 ## 🚀 Featured Projects
@@ -48,25 +52,17 @@ A custom implementation of a Unix shell with basic command execution capabilitie
 - **Tech Stack:** C, Unix System Calls, Process Management
 - [View Repository](https://github.com/sadatnazarli/holbertonschool-simple_shell)
 
-### DevCollaborate
-A platform for developers to find collaborators for open-source projects.
-- **Tech Stack:** Django, PostgreSQL, Git
-- [View Repository](https://github.com/sadatnazarli/dev-collaborate)
-
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sadatnazarli"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/sadatnazarli"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://sadatnazarli.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:hello@sadatnazarli.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 <div align="center">
   <p><i>💭 "Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sadatnazarli.sadatnazarli" alt="visitors" />
 </div>
 
 <p align="center">✨ Let's connect and build something amazing together! ✨</p>
