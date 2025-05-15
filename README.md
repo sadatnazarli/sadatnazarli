@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Sadat Nazarli
 ### Software Developer | Open-Source Enthusiast | Problem Solver
 
-# 👋 Hi, I'm Sadat Nazarli
-### Software Developer | Open-Source Enthusiast | Problem Solver
-
 <div align="center">
   <table>
     <tr>
