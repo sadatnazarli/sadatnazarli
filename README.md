@@ -1,97 +1,77 @@
-<h1 align="center">Hi 👋, I'm Sadat Nazarli</h1>
-<h3 align="center">A passionate Visual Communication Designer & Creative Technologist from Baku</h3>
+# 👋 Hi, I'm Sadat Nazarli
+### Software Developer | Open-Source Enthusiast | Problem Solver
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=435&lines=Always+learning+new+things;Designing+meaningful+interactions;Building+AI+powered+experiences;Lover+of+minimalism+and+motion" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-<p align="left">
-  <a href="https://komarev.com/ghpvc/?username=dvecy">
-    <img src="https://komarev.com/ghpvc/?username=dvecy&label=Profile%20views&color=0e75b6&style=flat" alt="dvecy's Profile Views" />
-  </a>
-</p>
+## 💫 About Me
 
----
+Passionate software developer with a keen interest in building scalable applications and contributing to innovative solutions. I enjoy tackling complex problems and continuously expanding my technical knowledge through open-source contributions and collaborative projects.
 
-## ✨ About Me
+- 🔭 Currently working on enhancing web applications with modern frameworks
+- 🌱 Always learning and exploring new technologies
+- 💡 Believe in clean code, documentation, and test-driven development
 
-* 🚀 I’m currently building **AiChess** – a React + Tailwind chess app with Stockfish AI and OpenRouter-based voice explanations
-* 🌱 I’m learning **Three.js**, **GSAP**, and **Next.js** to create immersive portfolio experiences
-* 🤝 I’m open to collaborations in **creative frontend**, **AI interfaces**, and **design systems**
-* 🤔 I’m looking for help with **advanced WebGL and sound-reactive design**
-* 💬 Ask me about **UX/UI design, creative coding, or AI tools integration**
-* 📧 Reach me at: **sadatnazarli.dev@gmail.com**
-* 😄 Pronouns: **he/him**
-* ✨ Fun fact: I write a mythological-philosophical book called **"LIBE ROMANI"** based on university lectures
-
----
-
-## 🛠️ My Skills
+## 🛠️ Skills & Tools
 
 ### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40" height="40" alt="Three.js"/>
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
-### Databases & Cloud
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-</p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sadatnazarli&theme=dark" alt="GitHub Streak" />
+</div>
+
+## 🚀 Featured Projects
+
+### Project Spectrum
+A responsive web application that analyzes and visualizes data patterns for business intelligence.
+- **Tech Stack:** React, Node.js, D3.js, MongoDB
+- [View Repository](https://github.com/sadatnazarli/project-spectrum) | [Live Demo](https://project-spectrum.vercel.app)
+
+### DevCollaborate
+A platform for developers to find collaborators for open-source projects.
+- **Tech Stack:** Django, PostgreSQL, Docker, AWS
+- [View Repository](https://github.com/sadatnazarli/dev-collaborate)
+
+### CodeInsight
+Browser extension that enhances GitHub with AI-powered code suggestions and documentation.
+- **Tech Stack:** JavaScript, Chrome Extension API, OpenAI
+- [View Repository](https://github.com/sadatnazarli/code-insight) | [Chrome Store](https://chrome.google.com/webstore/codeinsight)
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sadatnazarli"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/sadatnazarli"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://sadatnazarli.dev"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:hello@sadatnazarli.dev"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+  <p><i>💭 "Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sadatnazarli.sadatnazarli" alt="visitors" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvecy&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="dvecy's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvecy&layout=compact&locale=en&theme=tokyonight&hide_border=true&langs_count=8" alt="dvecy's Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvecy&theme=tokyonight&hide_border=true" alt="dvecy's Streak Stats" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvecy/dvecy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvecy/dvecy/output/github-contribution-grid-snake.svg" />
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/dvecy/dvecy/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://dvecy.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/dvecy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/dvecy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+<p align="center">✨ Let's connect and build something amazing together! ✨</p>
