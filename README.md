@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Sadat Nazarli
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sadatnazarli&theme=dark" alt="GitHub Streak" width="80%" />
+</div># 👋 Hi, I'm Sadat Nazarli
 ### Software Developer | Open-Source Enthusiast | Problem Solver
 
 <div align="center">
-  <img src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.gif" alt="Coding GIF" width="500" />
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595329694615/ixt6_2P8R.gif?auto=format,compress&gif-q=60&format=webm" alt="Coding GIF" width="600" />
 </div>
 
 <div align="center">
@@ -36,21 +38,42 @@ Passionate software developer with expertise in Python, C, and web technologies.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sadatnazarli&theme=dark" alt="GitHub Streak" width="70%" />
-</div>
+## 🚀 Projects
 
-## 🚀 Featured Projects
-
-### Yox-as-a-Service
-A polite Azerbaijani way to say 'no' — powered by code, culture, and a dash of sarcasm.
-- **Tech Stack:** Python, Flask, HTML/CSS, JavaScript
-- [View Repository](https://github.com/sadatnazarli/Yox-as-a-Service)
-
-### Simple Shell
-A custom implementation of a Unix shell with basic command execution capabilities.
-- **Tech Stack:** C, Unix System Calls, Process Management
-- [View Repository](https://github.com/sadatnazarli/holbertonschool-simple_shell)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Yox-as-a-Service</h3>
+      <div align="center">
+        <a href="https://github.com/sadatnazarli/Yox-as-a-Service" target="_blank">
+          <img src="https://dummyimage.com/400x200/000/fff&text=YOX" width="100%" alt="Yox-as-a-Service"/>
+        </a>
+        <br>
+        <p align="center">
+          <a href="https://github.com/sadatnazarli/Yox-as-a-Service" target="_blank">
+            <img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Python, Flask, HTML/CSS, JavaScript</strong> - A polite Azerbaijani way to say 'no' — powered by code, culture, and a dash of sarcasm.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Simple Shell</h3>
+      <div align="center">
+        <a href="https://github.com/sadatnazarli/holbertonschool-simple_shell" target="_blank">
+          <img src="https://dummyimage.com/400x200/000/fff&text=Shell" width="100%" alt="Simple Shell"/>
+        </a>
+        <br>
+        <p align="center">
+          <a href="https://github.com/sadatnazarli/holbertonschool-simple_shell" target="_blank">
+            <img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>C, Unix System Calls, Process Management</strong> - A custom implementation of a Unix shell with basic command execution capabilities.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Connect With Me
 
