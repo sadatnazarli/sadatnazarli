@@ -1,15 +1,21 @@
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sadatnazarli&theme=dark" alt="GitHub Streak" width="80%" />
-</div># 👋 Hi, I'm Sadat Nazarli
+# 👋 Hi, I'm Sadat Nazarli
 ### Software Developer | Open-Source Enthusiast | Problem Solver
 
 <div align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595329694615/ixt6_2P8R.gif?auto=format,compress&gif-q=60&format=webm" alt="Coding GIF" width="600" />
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595329694615/ixt6_2P8R.gif?auto=format,compress&gif-q=60&format=webm" alt="Coding GIF" width="500" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&layout=compact&theme=radical" alt="Top Languages" /></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sadatnazarli&theme=dark" alt="GitHub Streak" width="70%" />
 </div>
 
 ## 💫 About Me
@@ -37,43 +43,6 @@ Passionate software developer with expertise in Python, C, and web technologies.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Yox-as-a-Service</h3>
-      <div align="center">
-        <a href="https://github.com/sadatnazarli/Yox-as-a-Service" target="_blank">
-          <img src="https://dummyimage.com/400x200/000/fff&text=YOX" width="100%" alt="Yox-as-a-Service"/>
-        </a>
-        <br>
-        <p align="center">
-          <a href="https://github.com/sadatnazarli/Yox-as-a-Service" target="_blank">
-            <img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Python, Flask, HTML/CSS, JavaScript</strong> - A polite Azerbaijani way to say 'no' — powered by code, culture, and a dash of sarcasm.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Simple Shell</h3>
-      <div align="center">
-        <a href="https://github.com/sadatnazarli/holbertonschool-simple_shell" target="_blank">
-          <img src="https://dummyimage.com/400x200/000/fff&text=Shell" width="100%" alt="Simple Shell"/>
-        </a>
-        <br>
-        <p align="center">
-          <a href="https://github.com/sadatnazarli/holbertonschool-simple_shell" target="_blank">
-            <img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>C, Unix System Calls, Process Management</strong> - A custom implementation of a Unix shell with basic command execution capabilities.</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ## 📫 Connect With Me
 
