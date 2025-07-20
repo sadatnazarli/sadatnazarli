@@ -1,73 +1,80 @@
 # 👋 Hi, I'm Sadat Nazarli
-### Software Developer | Open-Source Enthusiast | Problem Solver
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/zaftzaft/terminal-anime/master/demo.gif" alt="Terminal Anime GIF" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" alt="Code Eye GIF" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+**Junior Software Developer | Software Engineer Intern @ CIB Biznes**
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&layout=compact&theme=radical" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+> "Curious mind. Builder’s soul. Always learning, always shipping."
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sadatnazarli&theme=dark" alt="GitHub Streak" width="70%" />
-</div>
+---
 
-## 💫 About Me
+## 💡 About Me
 
-Passionate software developer with expertise in Python, C, and web technologies. I enjoy tackling complex problems and contributing to innovative solutions that make a difference. Based in Azerbaijan, I blend technical skills with cultural insights to create software that resonates.
+I'm a passionate developer with experience in software engineering, technical support, QA, and startup operations. Currently, I'm a Software Engineer Intern at CIB Biznes, focused on building, debugging, and delivering impactful solutions. My journey blends backend systems, quality assurance, and user-centric thinking in fast-paced environments.
 
-- 🔭 Currently working on enhancing web applications with Django and Flask
-- 🌱 Always learning and exploring new technologies
-- 💡 Believe in clean code, documentation, and test-driven development
+---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Languages & Tools:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+**Core Skills:**  
+Debugging · API Integration · QA Testing · Time Management · Technical Support
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Soft Skills:**  
+Communication · Fast Learning · Startup Collaboration · User-Centric Thinking
 
-## 📫 Connect With Me
+---
+
+## 🚀 Featured Projects
+
+- **Yox-as-a-Service** – Open-source self-verification API  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/sadatnazarli/Yox-as-a-Service)
+  [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://yoxapi.fun)
+
+- **Aera Moda Evi** – Business website for a fashion brand  
+  [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://aeramodaevi.com)
+
+- **Holberton Simple Shell** – Unix shell implementation in C  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/sadatnazarli/Simple-Shell)
+
+---
+
+## 🏆 Achievements
+
+- CS50’s Python Certificate (2025)
+- Holberton School: Foundations of Computer Science (2024)
+- QA Testing Course (Completed)
+- Certificates in Python Bootcamp, Cybersecurity, Technical Support, and Volunteer Service
+
+---
+
+## 🔗 Connect with Me
+
+[![Website](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=About.me&logoColor=white)](https://sadatnazarli.com)
+[![GitHub](https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sadatnazarli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadatnazarli)
+
+---
+
+## 🎯 Fun Facts
+
+- Fluent in Azerbaijani, Turkish, English
+- Passionate about QA testing, backend systems, and real-world tools
+- Loves fast-paced projects at the intersection of tech, design, and business
+
+---
+
+## 📊 GitHub Stats & Visitors
 
 <p align="center">
-  <a href="https://linkedin.com/in/sadatnazarli"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/sadatnazarli"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sadatnazarli&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=react&hide=stars,prs" alt="Sadat Nazarli's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadatnazarli&theme=react" alt="Sadat Nazarli's GitHub streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&layout=compact&theme=react" alt="Sadat Nazarli's Top Languages" height="170"/>
 </p>
 
 ---
 
-<div align="center">
-  <p><i>💭 "Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
-</div>
-
-<p align="center">✨ Let's connect and build something amazing together! ✨</p>
+<!--
+If you like my work, feel free to connect or drop me a message!
+-->
