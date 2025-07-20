@@ -16,9 +16,13 @@ Software Engineer Intern passionate about building real solutions. I love debugg
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
+<img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" />
+<img src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1A1555-seeklogo.com.png" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" />
 
@@ -28,16 +32,6 @@ Software Engineer Intern passionate about building real solutions. I love debugg
 
 ---
 
-## Projects
 
-**🔧 [Yox-as-a-Service](https://yoxapi.fun)** - Self-verification API  
-[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github)](https://github.com/sadatnazarli/Yox-as-a-Service)
-
-**🏢 [Aera Moda Evi](https://aeramodaevi.com)** - Business website for fashion brand  
-
-**⚡ [Simple Shell](https://github.com/sadatnazarli/Simple-Shell)** - Unix shell built in C  
-[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github)](https://github.com/sadatnazarli/Simple-Shell)
-
----
 
 *Building one project at a time.*
