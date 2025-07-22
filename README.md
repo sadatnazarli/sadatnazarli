@@ -2,10 +2,6 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNjMwNzIsIm5iZiI6MTc1MzE2Mjc3MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDA1MzkzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwMjEzNjU1YTg1NTlmMzZmOWM5NjhlY2IxYWRlMTAyZWQzMWU4MDU4MGEzNjAxMzY3ODIwMWJjZjQzNGUyNGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8uSLkVGyoE0oM_3w9SUG5fDQZqp836eCllfT06sgi98" width="100%" alt="GitHub Banner"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="437" height="467" alt="Coding Animation"/>
-</div>
-
 # Sadat Nazarli
 
 **Junior Software Developer | Building & Learning**
