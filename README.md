@@ -23,8 +23,9 @@ Software Engineer Intern passionate about building real solutions. I love debugg
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-<div style="flex: 1;">
+<table>
+<tr>
+<td width="70%">
 
 ### Programming Languages
 <div align="left">
@@ -51,19 +52,24 @@ Software Engineer Intern passionate about building real solutions. I love debugg
 
 **Focus Areas:** API Development • QA Testing • System Debugging • Web Development
 
-</div>
-<div style="flex: 0 0 300px; text-align: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250" height="267" alt="Coding Animation"/>
-</div>
-</div>
+</td>
+<td width="30%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="215" alt="Coding Animation"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadatnazarli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadatnazarli&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadatnazarli&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
