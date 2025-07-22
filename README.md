@@ -23,6 +23,9 @@ Software Engineer Intern passionate about building real solutions. I love debugg
 
 ## 🛠️ Tech Stack
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="flex: 1;">
+
 ### Programming Languages
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
@@ -48,13 +51,19 @@ Software Engineer Intern passionate about building real solutions. I love debugg
 
 **Focus Areas:** API Development • QA Testing • System Debugging • Web Development
 
+</div>
+<div style="flex: 0 0 300px; text-align: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250" height="267" alt="Coding Animation"/>
+</div>
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadatnazarli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadatnazarli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
