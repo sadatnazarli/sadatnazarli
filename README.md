@@ -3,7 +3,6 @@
 **Junior Software Developer | Building & Learning**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sadatnazarli.com-0066cc?style=for-the-badge&logo=About.me&logoColor=white)](https://sadatnazarli.com)
-![Profile Views](https://komarev.com/ghpvc/?username=sadatnazarli&style=for-the-badge&color=blue)
 
 ---
 
