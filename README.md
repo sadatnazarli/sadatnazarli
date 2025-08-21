@@ -118,13 +118,6 @@ I'm a passionate **Junior Software Engineer** who loves turning ideas into reali
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=sadatnazarli&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
 
 ---
 
