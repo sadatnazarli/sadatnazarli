@@ -160,20 +160,6 @@ public class SadatNazarli extends Developer {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Demo |
-|---------|-------------|------------|------|
-| 🔗 **API Gateway** | RESTful API with authentication | Java, Spring Boot, MySQL | [View](link) |
-| 📱 **Web Application** | Full-stack web solution | Python, Django, PostgreSQL | [View](link) |
-| 🤖 **Automation Tool** | Task automation system | Python, Flask, SQLite | [View](link) |
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
