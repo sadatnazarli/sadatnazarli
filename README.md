@@ -1,40 +1,39 @@
 # Sadat Nazarli
 
-**Software Engineer** • Full-Stack & Mobile Developer
+**Software Engineer** • Full-Stack Developer  
 
-Currently learning iOS development while building web applications with modern technologies.
+Building modern, scalable, and efficient web applications. Passionate about backend systems, clean code, and meaningful product design.
 
 ---
 
-## Tech Stack
+## 🧠 Tech Stack
 
 **Languages**  
-Python • JavaScript • TypeScript • Swift • C • HTML • CSS
+Python • JavaScript • TypeScript • C • HTML • CSS  
 
 **Web Development**  
-Next.js • Node.js • React • Express.js • Flask
+Next.js • React • Node.js • Express.js • Flask  
 
-**Mobile**  
-iOS Development • SwiftUI • Xcode
-
-**Database & Tools**  
-MongoDB • PostgreSQL • Git • Docker • VS Code
+**Databases & Tools**  
+MongoDB • PostgreSQL • Docker • Git • VS Code  
 
 ---
 
-## Currently
+## 🚀 What I’m Doing
 
-- 📱 Learning iOS development with Swift
-- 🌐 Building full-stack applications
-- 🔧 Exploring system architecture
-- 📚 Always learning something new
-
----
-
-## Connect
-
-[Portfolio](https://sadatnazarli.com) • [LinkedIn](https://linkedin.com/in/sadatnazarli) • [Email](mailto:your.email@example.com)
+- 🌐 Developing **full-stack web applications**  
+- ⚙️ Exploring **system architecture and API design**  
+- 🧩 Working on **automation and backend performance**  
+- 📚 Constantly learning and improving every day  
 
 ---
 
-*Building solutions, one line of code at a time.*
+## 🌍 Connect with Me
+
+- 🖥 [Portfolio](https://sadatnazarli.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/sadatnazarli)  
+- ✉️ [Email](mailto:contact@sadatnazarli.com) *(replace if needed)*  
+
+---
+
+> *“Building solutions that are fast, simple, and impactful.”*
