@@ -32,7 +32,6 @@ MongoDB • PostgreSQL • Docker • Git • VS Code
 
 - 🖥 [Portfolio](https://sadatnazarli.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/sadatnazarli)  
-- ✉️ [Email](mailto:contact@sadatnazarli.com) *(replace if needed)*  
 
 ---
 
