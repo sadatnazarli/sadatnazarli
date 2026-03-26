@@ -1,48 +1,45 @@
-# Hi, I'm Sadat Nazarli 👋
+# Sadat Nazarli
 
-### **Software Engineer & Business Administration Student**
-*Bridging the gap between technical systems and business logic.*
+Builder. BBA student at TED University, Ankara.  
+I ship full-stack products — fast, clean, production-ready.
 
-I am a **Solo Software Developer** focused on building high-performance backend systems, automation, and AI-integrated applications. Currently pursuing my degree in **Business Administration at TED University**, I bring a strategic, product-oriented mindset to every line of code I write.
-
----
-
-## 🛠 Tech Stack
-
-**Core Languages & Systems**
-- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-**Web Frameworks & Frontend**
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-- ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend, Database & Infrastructure**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Not a traditional developer. I use AI as leverage to build things that would normally take a team.
 
 ---
 
-## 🧠 Current Focus
-* **System Architecture:** Deepening my knowledge of C and Python for low-level systems and high-performance APIs.
-* **AI Integration:** Building practical, AI-driven solutions that solve real-world operational problems.
-* **Data Security:** Exploring cybersecurity standards and data privacy in modern web environments.
-* **Business Logic:** Applying management and economic principles to software scalability.
+## What I've Built
+
+**Celentano & Freshy** — Full-stack restaurant management platform for an Italian pizza brand in Baku. Multi-brand ordering system, real-time kitchen display (SSE), inventory tracking, loyalty engine, coupon/campaign system with atomic concurrency handling. Built solo. In production.
+
+**CİBPay KYC System** — Private identity verification system for a fintech company. Confidential.
+
+**azModern Student Portal** — Full-stack portal for Azerbaijani students in Turkey. 100+ files, built in ~2 weeks.
 
 ---
 
-## 📚 Beyond the Code
-When I'm not in the terminal, I am deeply engaged with classic literature and philosophy. I find that the logic of programming and the inquiry of existentialism often go hand-in-hand.
+## Stack
 
-> *"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion." — Albert Camus*
+TypeScript · Node.js · Next.js · PostgreSQL · Prisma · Redis · React · Tailwind · Docker · Python
 
 ---
 
-## 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadatnazarli)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sadatnazarli.com)
+## Currently
+
+- Deepening systems knowledge (C, low-level architecture)
+- Building AI-integrated products for real operational problems
+- Exploring the overlap between security engineering and business logic
+- Writing at [thehumanmotive.com](https://thehumanmotive.com) — philosophy, existentialism, human nature (in Azerbaijani)
+
+---
+
+## Stats
+
+![Sadat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide=stars)
+![GitHub Streak](https://streak-stats.demolab.com?user=sadatnazarli&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&layout=compact&langs_count=5)
+
+---
+
+## Links
+
+[sadatnazarli.com](https://sadatnazarli.com) · [LinkedIn](https://linkedin.com/in/sadatnazarli) · [The Human Motive](https://thehumanmotive.com)
