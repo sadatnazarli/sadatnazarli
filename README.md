@@ -34,9 +34,18 @@ TypeScript · Node.js · Next.js · PostgreSQL · Prisma · Redis · React · Ta
 
 ## Stats
 
-![Sadat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide=stars)
-![GitHub Streak](https://streak-stats.demolab.com?user=sadatnazarli&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&layout=compact&langs_count=5)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sadatnazarli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide=stars&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatnazarli&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&layout=compact&langs_count=6&count_private=true" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=sadatnazarli&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
 ---
 
