@@ -1,45 +1,67 @@
-# Sadat Nazarli
+# Hey, I'm Sadat Nazarli
 
-Builder. BBA student at TED University, Ankara.  
-I ship full-stack products — fast, clean, production-ready.
+I'm a 19-year-old technical product builder from Azerbaijan, currently based in Ankara.
 
-Not a traditional developer. I use AI as leverage to build things that would normally take a team.
-
----
-
-## What I've Built
-
-**Celentano & Freshy** — Full-stack restaurant management platform for an Italian pizza brand in Baku. Multi-brand ordering system, real-time kitchen display (SSE), inventory tracking, loyalty engine, coupon/campaign system with atomic concurrency handling. Built solo. In production.
-
-**CİBPay KYC System** — Private identity verification system for a fintech company. Confidential.
-
-**azModern Student Portal** — Full-stack portal for Azerbaijani students in Turkey. 100+ files, built in ~2 weeks.
+I build products at the intersection of **compliance, AI, fintech, and automation**.  
+My main focus right now is **Verifex** — a sanctions screening API for fintech, crypto, and compliance teams.
 
 ---
 
-## Stack
+## What I'm building
 
-TypeScript · Node.js · Next.js · PostgreSQL · Prisma · Redis · React · Tailwind · Docker · Python
+### Verifex  
+A sanctions screening API designed for modern compliance teams.
 
----
+Verifex helps companies screen users and entities against global sanctions lists with a focus on:
 
-## Currently
+- high recall
+- low false positives
+- transliteration handling
+- adversarial edge cases
+- fast API response times
+- transparent benchmarking
 
-- Deepening systems knowledge (C, low-level architecture)
-- Building AI-integrated products for real operational problems
-- Exploring the overlap between security engineering and business logic
-- Writing at [thehumanmotive.com](https://thehumanmotive.com) — philosophy, existentialism, human nature (in Azerbaijani)
+Public benchmark: **145 adversarial sanctions screening test cases**  
+Result: **100% F1 score** with zero false negatives and zero false positives.
 
----
-
-## Stats
-
-<img src="https://streak-stats.demolab.com?user=sadatnazarli&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadatnazarli&theme=github_dark" alt="GitHub Activity" />
+Website: [verifex.dev](https://verifex.dev)
 
 ---
 
-## Links
+## What I care about
 
-[sadatnazarli.com](https://sadatnazarli.com) · [LinkedIn](https://linkedin.com/in/sadatnazarli) · [The Human Motive](https://thehumanmotive.com)
+I am interested in building products that are:
+
+- technically strong
+- simple to use
+- commercially useful
+- hard to copy
+- cleanly designed
+- measurable, not just “AI-powered”
+
+I like products where engineering, psychology, distribution, and business strategy meet.
+
+---
+
+## Areas I work on
+
+- Product management
+- AI-powered SaaS
+- KYC / AML / compliance systems
+- Sanctions screening
+- API product design
+- Startup strategy
+- SEO and growth systems
+- Automation tools
+- Web applications
+
+---
+
+## Tech & tools
+
+I mostly work with:
+
+```txt
+Python · JavaScript · TypeScript · React · Next.js · Astro
+FastAPI · Node.js · PostgreSQL · Supabase
+FAISS · Embeddings · LLM workflows · API design
